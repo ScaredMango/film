@@ -1,0 +1,7 @@
+.env
+venv/
+main.py
+config.py
+.idea
+__pycache__/
+instance/
