@@ -25,3 +25,7 @@ def movie(id):
     return render_template('movie.html',
                            movie=movie,
                            avg_score=avg_score)
+
+@app.route('/')
+def m():
+    pass
